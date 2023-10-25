@@ -1,0 +1,208 @@
+        .Grandpere {
+            background-color: red;
+            height: 250px;
+            text-align: center;
+        }
+        
+        .titre {
+            margin: 0;
+            color: white;
+            margin-top: 5px;
+        }
+        
+        body {
+            margin: 0;
+            font-family: sans-serif;
+        }
+        
+        img {
+            align-items: center;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+        
+        .Enfant {
+            font-size: 12px;
+            color: white;
+            font-style: sans-serif;
+        }
+        
+        .tante {
+            display: flex;
+            justify-content: center;
+            margin-top: 5px;
+            font-style: sans-serif;
+        }
+        
+        nav {
+            width: 100%;
+            background-color: rgb(48, 59, 83);
+        }
+        
+        .lien {
+            display: flex;
+            justify-content: flex-end;
+            text-decoration: none;
+            color: whitesmoke;
+            align-items: center;
+            gap: 5%;
+        }
+        
+        a {
+            text-decoration: none;
+            color: white;
+            align-items: center;
+            margin-bottom: 3%;
+            display: flex;
+            gap: 10%;
+            margin-top: 10px;
+        }
+        
+        .logo {
+            display: flex;
+            color: white;
+            align-items: center;
+            position: absolute;
+            font-size: 15px;
+            margin-left: 20%;
+            text-decoration: sans-serif;
+        }
+        
+        .img2 {
+            display: grid;
+            grid-template-columns: auto auto auto;
+            gap: 15px;
+            justify-content: center;
+            margin-bottom: 10%;
+        }
+        
+        .enfant2 img {
+            max-width: 200px;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+        
+        .titre2 {
+            text-align: center;
+            font-style: sans-serif;
+            font-size: 25px;
+            margin-top: 1%;
+        }
+        
+        .parents1 {
+            background-color: red;
+            height: 255px;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .enfant3 {
+            color: whitesmoke;
+            display: flex;
+            justify-content: center;
+            width: 250px;
+        }
+        
+        .titre3 {
+            text-align: center;
+            left: 48%;
+            color: whitesmoke;
+            font-size: 200%;
+            background-color: red;
+            padding: 20px;
+        }
+        
+        .section3 {
+            background-color: red;
+            flex-direction: column;
+            justify-items: center;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 5%;
+        }
+        
+        .parent7 {
+            display: flex;
+            justify-content: space-evenly;
+        }
+        
+        .parent5 {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-size: small;
+            border: none;
+            outline: none;
+        }
+        
+        .parent5 input {
+            border: 1%;
+            outline: none;
+            margin-bottom: 2%;
+            opacity: 0.07;
+        }
+        
+        .titre5 {
+            text-align: center;
+            margin-bottom: 5%;
+        }
+        
+        .parent8 {
+            background-color: rgb(48, 59, 83);
+            justify-content: space-between;
+            display: flex;
+            color: white;
+        }
+        
+        .titre6 {
+            color: whitesmoke;
+            text-decoration: sans-serif;
+        }
+        
+        .colone2 {
+            text-align: center;
+            padding-bottom: 5%;
+            color: white;
+        }
+        
+        .emeticone {
+            padding-top: 5%;
+            color: white;
+            text-decoration: sans-serif;
+        }
+        
+        .colone1 {
+            justify-content: center;
+            padding-top: 3%;
+            padding-left: 15%;
+        }
+        
+        .location {
+            font-size: 80%;
+            padding-top: 5%;
+            text-decoration: sans-serif;
+            color: white;
+        }
+        
+        .bouton {
+            background-color: rgb(188, 8, 8);
+            border-radius: 15%;
+            font-size: 40%;
+            padding: 0.5%;
+        }
+        
+        .renseignement {
+            align-items: center;
+        }
+        
+        .colone3 {
+            padding-right: 3%;
+            padding-top: 3%;
+        }
+        
+        .lien6 {
+            color: white;
+        }
